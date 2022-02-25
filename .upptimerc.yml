@@ -1,26 +1,78 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: hcpss # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: hcpss.me
+    url: https://hcpss.me/
+  - name: SSO
+    url: https://hcpss.me/saml/saml2/idp/metadata.php
+  - name: Enhanced Security
+    url: https://hcpss.me/enhanced-security/script.js
+  - name: Synergy SSO
+    url: https://hcpss.me/synergy/logout.php
+  - name: www.hcpss.me
+    url: https://www.hcpss.me/
+  - name: Minio
+    url: https://secminio.hcpss.org/public/status.xml
+  - name: HCLibrary Cards
+    url: https://aplusstudent.hcpss.me/images/hclibrary.png
+  - name: Docker Registry
+    url: https://reg.hcpss.org/
+  - name: Student/Staff Account Management Web
+    url: https://sam.hcpss.org/
+  - name: Student/Staff Account Management API
+    url: https://sam.hcpss.org/api/docs/
+  - name: SSO JWT
+    url: https://sso-jwt.hcpss.org/
+  - name: Account Self-Service Web
+    url: https://account.hcpss.org/
+  - name: Account Self-Service API
+    url: https://account.hcpss.org/api/docs/
+  - name: LDAP API
+    url: https://ldapapi.hcpss.org/
+  - name: Password API
+    url: https://passwordapi.hcpss.org/
+  - name: SMTP API
+    url: https://smtpapi.hcpss.org/
+  - name: IP Info
+    url: https://ipinfo.hcpss.org/
+  #- name: Locutus
+  #  url: https://locutus.hcpss.org/
+  - name: WireGuard
+    url: https://wgapi.hcpss.org/api/docs/
+  - name: MeshCentral
+    url: https://meshcentral.hcpss.org/
+  - name: Chromebook API
+    url: https://chromebookapi.hcpss.org/
+  - name: Canvas API
+    url: https://canvasapi.hcpss.org/
+  #- name: Auth Proxy
+  #  url: https://auth-proxy.hcpss.org/
+  #- name: ADFS
+  #  url: https://adfs.hcpss.org/adfs/ls/
+  - name: SaltProject API
+    url: https://saltapi.hcpss.org/
+  - name: Borg
+    url: https://borg.hcpss.org/
+  - name: Send
+    url: https://send.hcpss.org/
+  - name: PWPush
+    url: https://pwpush.hcpss.org/
+  - name: PWGen
+    url: https://pwgen.hcpss.org/
+assignees:
+  - nickadam
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
+  logoUrl: https://raw.githubusercontent.com/HCPSS/upptime/master/assets/hcpss.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/hcpss/upptime).
   navbar:
     - title: Status
       href: /
