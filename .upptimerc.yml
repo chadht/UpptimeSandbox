@@ -61,6 +61,14 @@ sites:
     url: https://pwpush.hcpss.org/
   - name: PWGen
     url: https://pwgen.hcpss.org/
+  - name: CO MTA
+    check: "tcp-ping"
+    url: coamta.hcpss.org
+    port: 25
+  - name: AO MTA
+    check: "tcp-ping"
+    url: aoamta.hcpss.org
+    port: 25
 assignees:
   - nickadam
 
