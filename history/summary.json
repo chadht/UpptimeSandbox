@@ -234,19 +234,19 @@
     "url": "https://account.hcpss.org/api/docs/",
     "icon": "https://favicons.githubusercontent.com/account.hcpss.org",
     "slug": "account-self-service-api",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 459,
-    "timeDay": 755,
-    "timeWeek": 370,
-    "timeMonth": 459,
-    "timeYear": 459,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 436,
+    "timeDay": 608,
+    "timeWeek": 338,
+    "timeMonth": 436,
+    "timeYear": 436,
     "dailyMinutesDown": {
-      "2022-03-10": 14
+      "2022-03-10": 25
     }
   },
   {
@@ -254,19 +254,19 @@
     "url": "https://ldapapi.hcpss.org/",
     "icon": "https://favicons.githubusercontent.com/ldapapi.hcpss.org",
     "slug": "ldap-api",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 449,
-    "timeDay": 1523,
-    "timeWeek": 681,
-    "timeMonth": 449,
-    "timeYear": 449,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 427,
+    "timeDay": 1043,
+    "timeWeek": 615,
+    "timeMonth": 427,
+    "timeYear": 427,
     "dailyMinutesDown": {
-      "2022-03-10": 27
+      "2022-03-10": 38
     }
   },
   {
@@ -315,18 +315,18 @@
     "icon": "https://favicons.githubusercontent.com/ipinfo.hcpss.org",
     "slug": "ip-info",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1075,
     "timeDay": 3745,
     "timeWeek": 1727,
     "timeMonth": 1075,
     "timeYear": 1075,
     "dailyMinutesDown": {
-      "2022-03-10": 13
+      "2022-03-10": 25
     }
   },
   {
