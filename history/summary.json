@@ -234,19 +234,19 @@
     "url": "https://account.hcpss.org/api/docs/",
     "icon": "https://favicons.githubusercontent.com/account.hcpss.org",
     "slug": "account-self-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.10%",
+    "uptimeDay": "99.06%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 320,
-    "timeDay": 69,
-    "timeWeek": 98,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "time": 459,
+    "timeDay": 755,
+    "timeWeek": 370,
+    "timeMonth": 459,
+    "timeYear": 459,
     "dailyMinutesDown": {
-      "2022-03-10": 13
+      "2022-03-10": 14
     }
   },
   {
@@ -255,18 +255,18 @@
     "icon": "https://favicons.githubusercontent.com/ldapapi.hcpss.org",
     "slug": "ldap-api",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.85%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 449,
     "timeDay": 1523,
     "timeWeek": 681,
     "timeMonth": 449,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2022-03-10": 13
+      "2022-03-10": 27
     }
   },
   {
@@ -314,17 +314,17 @@
     "url": "https://ipinfo.hcpss.org/",
     "icon": "https://favicons.githubusercontent.com/ipinfo.hcpss.org",
     "slug": "ip-info",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.10%",
+    "uptimeDay": "99.09%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 970,
-    "timeDay": 4036,
-    "timeWeek": 1600,
-    "timeMonth": 970,
-    "timeYear": 970,
+    "time": 1075,
+    "timeDay": 3745,
+    "timeWeek": 1727,
+    "timeMonth": 1075,
+    "timeYear": 1075,
     "dailyMinutesDown": {
       "2022-03-10": 13
     }
