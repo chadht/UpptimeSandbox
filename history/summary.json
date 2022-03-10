@@ -255,18 +255,18 @@
     "icon": "https://favicons.githubusercontent.com/ldapapi.hcpss.org",
     "slug": "ldap-api",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.64%",
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 648,
     "timeDay": 1471,
     "timeWeek": 936,
     "timeMonth": 648,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2022-03-10": 59
+      "2022-03-10": 68
     }
   },
   {
@@ -314,19 +314,19 @@
     "url": "https://ipinfo.hcpss.org/",
     "icon": "https://favicons.githubusercontent.com/ipinfo.hcpss.org",
     "slug": "ip-info",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 1553,
-    "timeDay": 5026,
-    "timeWeek": 2493,
-    "timeMonth": 1553,
-    "timeYear": 1553,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 1993,
+    "timeDay": 5913,
+    "timeWeek": 3147,
+    "timeMonth": 1993,
+    "timeYear": 1993,
     "dailyMinutesDown": {
-      "2022-03-10": 38
+      "2022-03-10": 47
     }
   },
   {
