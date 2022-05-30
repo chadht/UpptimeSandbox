@@ -216,9 +216,9 @@
     "url": "https://account.hcpss.org/",
     "icon": "https://favicons.githubusercontent.com/account.hcpss.org",
     "slug": "account-self-service-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.05%",
+    "uptimeDay": "99.00%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
@@ -228,7 +228,7 @@
     "timeMonth": 285,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2022-05-30": 14,
+      "2022-05-30": 15,
       "2022-04-27": 13,
       "2022-03-10": 22
     }
@@ -238,10 +238,10 @@
     "url": "https://account.hcpss.org/api/docs/",
     "icon": "https://favicons.githubusercontent.com/account.hcpss.org",
     "slug": "account-self-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.94%",
     "time": 678,
@@ -250,7 +250,7 @@
     "timeMonth": 451,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2022-05-30": 14,
+      "2022-05-30": 15,
       "2022-04-27": 12,
       "2022-03-10": 56
     }
