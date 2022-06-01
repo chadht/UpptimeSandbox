@@ -24,7 +24,7 @@ sites:
   - name: Student/Staff Account Management API
     url: https://sam.hcpss.org/api/docs/
   - name: SSO JWT
-    url: https://sso-jwt.hcpss.org/
+    url: https://sso-jwt.hcpss.org/sso-jwt/jwt.pub
   - name: Account Self-Service Web
     url: https://account.hcpss.org/
   - name: Account Self-Service API
