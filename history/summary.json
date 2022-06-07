@@ -522,19 +522,19 @@
     "url": "coamta.hcpss.org",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "co-mta",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 28,
     "timeDay": 48,
     "timeWeek": 68,
     "timeMonth": 45,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2022-06-07": 20
+      "2022-06-07": 27
     }
   },
   {
