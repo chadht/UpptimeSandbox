@@ -1,7 +1,7 @@
 url: https://ldapapi.hcpss.org/
-status: up
-code: 200
-responseTime: 522
-lastUpdated: 2022-07-07T06:20:10.372Z
+status: down
+code: 503
+responseTime: 2909
+lastUpdated: 2022-07-07T06:49:01.321Z
 startTime: Fri Feb 25 2022 17:38:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
