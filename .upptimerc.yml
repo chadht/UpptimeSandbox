@@ -9,8 +9,6 @@ sites:
     url: https://hcpss.me/saml/saml2/idp/metadata.php
   - name: Enhanced Security
     url: https://hcpss.me/enhanced-security/script.js
-  - name: Synergy SSO
-    url: https://hcpss.me/synergy/logout.php
   - name: www.hcpss.me
     url: https://www.hcpss.me/
   - name: Minio
