@@ -1,7 +1,7 @@
 url: https://secminio.hcpss.org/public/status.xml
-status: up
-code: 200
-responseTime: 394
-lastUpdated: 2023-12-17T13:26:49.652Z
+status: down
+code: 503
+responseTime: 271
+lastUpdated: 2023-12-17T13:35:41.508Z
 startTime: 2022-02-25T17:37:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
