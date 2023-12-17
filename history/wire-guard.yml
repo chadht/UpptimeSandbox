@@ -1,7 +1,7 @@
 url: https://wgapi.hcpss.org/api/docs/
-status: down
-code: 503
-responseTime: 155
-lastUpdated: 2023-12-17T13:18:17.882Z
+status: up
+code: 200
+responseTime: 67
+lastUpdated: 2023-12-17T13:27:07.072Z
 startTime: 2022-02-25T17:38:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
