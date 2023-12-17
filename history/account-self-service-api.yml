@@ -1,7 +1,7 @@
 url: https://account.hcpss.org/api/docs/
-status: down
-code: 503
-responseTime: 30
-lastUpdated: 2023-12-17T13:35:53.984Z
+status: up
+code: 200
+responseTime: 38
+lastUpdated: 2023-12-17T13:44:52.093Z
 startTime: 2022-02-25T17:38:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
