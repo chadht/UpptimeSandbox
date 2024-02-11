@@ -1,7 +1,7 @@
 url: https://sam.hcpss.org/
-status: up
-code: 200
-responseTime: 271
-lastUpdated: 2024-02-10T23:05:05.888Z
+status: down
+code: 503
+responseTime: 5319
+lastUpdated: 2024-02-11T15:31:39.472Z
 startTime: 2022-02-25T17:37:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
