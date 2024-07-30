@@ -59,6 +59,8 @@ sites:
     url: https://pwpush.hcpss.org/
   - name: PWGen
     url: https://pwgen.hcpss.org/
+  - name: LAPS
+    url: https://laps.hcpss.org/Computer/AccessRequest
   - name: CO MTA
     check: "tcp-ping"
     url: coamta.hcpss.org
