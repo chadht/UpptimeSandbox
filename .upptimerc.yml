@@ -59,10 +59,14 @@ sites:
     url: https://pwpush.hcpss.org/
   - name: PWGen
     url: https://pwgen.hcpss.org/
-  - name: Service Requets (API)
+  - name: Service Requet (API)
     url: https://srapi.hcpss.org/api/auth/login
+    assignees:
+      - chadht
   - name: Service Request (Web)
     url: https://sr.hcpss.org/app/css/styles.css
+    assignees:
+      - chadht
   - name: CO MTA
     check: "tcp-ping"
     url: coamta.hcpss.org
