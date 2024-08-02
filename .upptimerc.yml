@@ -59,9 +59,9 @@ sites:
     url: https://pwpush.hcpss.org/
   - name: PWGen
     url: https://pwgen.hcpss.org/
-  - name: Service Requet (API) test
+  - name: Service Requet (API)1
     url: https://srapi.hcpss.org/api/auth/login 
-  - name: Service Request (Web) test
+  - name: Service Request (Web)1
     url: https://sr.hcpss.org/app/css/styles.css
   - name: CO MTA
     check: "tcp-ping"
