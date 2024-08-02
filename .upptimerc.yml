@@ -75,6 +75,10 @@ sites:
     check: "tcp-ping"
     url: aoamta.hcpss.org
     port: 25
+  - name: Test Web Server
+    url: http://52.87.203.209/
+    assignees:
+      - chadht
 #assignees:
   #- chadht
 
