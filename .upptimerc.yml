@@ -75,10 +75,6 @@ sites:
     check: "tcp-ping"
     url: aoamta.hcpss.org
     port: 25
-  - name: LAPS
-    url: https://laps.hcpss.org
-    assignees:
-      - chadht
 #assignees:
   #- chadht
 
