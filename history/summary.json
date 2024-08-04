@@ -292,19 +292,19 @@
     "url": "https://wgapi.hcpss.org/api/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/wgapi.hcpss.org.ico",
     "slug": "wire-guard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 255,
-    "timeWeek": 265,
+    "timeDay": 238,
+    "timeWeek": 263,
     "timeMonth": 223,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2024-08-04": 1
+      "2024-08-04": 16
     }
   },
   {
@@ -529,18 +529,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/52.87.203.209.ico",
     "slug": "test-web-server",
     "status": "down",
-    "uptime": "9.82%",
+    "uptime": "9.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "9.82%",
-    "uptimeMonth": "9.82%",
-    "uptimeYear": "9.82%",
+    "uptimeWeek": "9.74%",
+    "uptimeMonth": "9.74%",
+    "uptimeYear": "9.74%",
     "time": 144,
     "timeDay": 0,
     "timeWeek": 144,
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-08-04": 184,
+      "2024-08-04": 199,
       "2024-08-03": 1440,
       "2024-08-02": 140
     }
