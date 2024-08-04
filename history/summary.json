@@ -58,19 +58,19 @@
     "url": "https://www.hcpss.me/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hcpss.me.ico",
     "slug": "www-hcpss-me",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 325,
-    "timeWeek": 280,
-    "timeMonth": 272,
-    "timeYear": 240,
+    "time": 234,
+    "timeDay": 421,
+    "timeWeek": 290,
+    "timeMonth": 277,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-08-04": 5
+      "2024-08-04": 13
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://reg.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/reg.hcpss.org.ico",
     "slug": "docker-registry",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 279,
+    "timeDay": 285,
     "timeWeek": 307,
     "timeMonth": 288,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2024-08-04": 10
+      "2024-08-04": 18
     }
   },
   {
@@ -224,19 +224,19 @@
     "url": "https://ldapapi.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ldapapi.hcpss.org.ico",
     "slug": "ldap-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 394,
-    "timeWeek": 362,
-    "timeMonth": 307,
+    "timeDay": 393,
+    "timeWeek": 363,
+    "timeMonth": 309,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2024-08-04": 1
+      "2024-08-04": 10
     }
   },
   {
@@ -318,19 +318,19 @@
     "url": "https://meshcentral.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/meshcentral.hcpss.org.ico",
     "slug": "mesh-central",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 321,
-    "timeWeek": 342,
-    "timeMonth": 326,
-    "timeYear": 283,
+    "timeDay": 377,
+    "timeWeek": 348,
+    "timeMonth": 328,
+    "timeYear": 284,
     "dailyMinutesDown": {
-      "2024-08-04": 1
+      "2024-08-04": 10
     }
   },
   {
@@ -539,18 +539,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/52.87.203.209.ico",
     "slug": "test-web-server",
     "status": "down",
-    "uptime": "9.25%",
+    "uptime": "9.21%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "9.25%",
-    "uptimeMonth": "9.25%",
-    "uptimeYear": "9.25%",
+    "uptimeWeek": "9.21%",
+    "uptimeMonth": "9.21%",
+    "uptimeYear": "9.21%",
     "time": 144,
     "timeDay": 0,
     "timeWeek": 144,
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-08-04": 304,
+      "2024-08-04": 313,
       "2024-08-03": 1440,
       "2024-08-02": 140
     }
