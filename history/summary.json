@@ -58,18 +58,20 @@
     "url": "https://www.hcpss.me/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hcpss.me.ico",
     "slug": "www-hcpss-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 233,
     "timeDay": 325,
     "timeWeek": 280,
     "timeMonth": 272,
     "timeYear": 240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-04": 5
+    }
   },
   {
     "name": "Minio",
@@ -112,11 +114,11 @@
     "url": "https://reg.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/reg.hcpss.org.ico",
     "slug": "docker-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 247,
     "timeDay": 279,
@@ -124,7 +126,7 @@
     "timeMonth": 288,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2024-08-04": 6
+      "2024-08-04": 10
     }
   },
   {
@@ -222,10 +224,10 @@
     "url": "https://ldapapi.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ldapapi.hcpss.org.ico",
     "slug": "ldap-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
@@ -233,7 +235,9 @@
     "timeWeek": 362,
     "timeMonth": 307,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-04": 1
+    }
   },
   {
     "name": "Password API",
@@ -314,18 +318,20 @@
     "url": "https://meshcentral.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/meshcentral.hcpss.org.ico",
     "slug": "mesh-central",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 435,
-    "timeWeek": 348,
-    "timeMonth": 328,
+    "timeDay": 321,
+    "timeWeek": 342,
+    "timeMonth": 326,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-04": 1
+    }
   },
   {
     "name": "Chromebook API",
@@ -533,18 +539,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/52.87.203.209.ico",
     "slug": "test-web-server",
     "status": "down",
-    "uptime": "9.58%",
+    "uptime": "9.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "9.58%",
-    "uptimeMonth": "9.58%",
-    "uptimeYear": "9.58%",
+    "uptimeWeek": "9.25%",
+    "uptimeMonth": "9.25%",
+    "uptimeYear": "9.25%",
     "time": 144,
     "timeDay": 0,
     "timeWeek": 144,
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-08-04": 234,
+      "2024-08-04": 304,
       "2024-08-03": 1440,
       "2024-08-02": 140
     }
