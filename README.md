@@ -1,4 +1,4 @@
-# [📈 Live Status](https://hcpss.github.io/upptime): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://chadht.github.io/UpptimeSandbox): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Howard County Public School System](http://www.hcpss.org), powered by [Upptime](https://github.com/upptime/upptime).
 
