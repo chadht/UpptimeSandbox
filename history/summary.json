@@ -244,9 +244,9 @@
     "url": "https://passwordapi.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/passwordapi.hcpss.org.ico",
     "slug": "password-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -255,7 +255,9 @@
     "timeWeek": 284,
     "timeMonth": 296,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-10": 0
+    }
   },
   {
     "name": "SMTP API",
