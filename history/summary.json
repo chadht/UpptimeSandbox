@@ -244,19 +244,19 @@
     "url": "https://passwordapi.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/passwordapi.hcpss.org.ico",
     "slug": "password-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 336,
-    "timeWeek": 284,
-    "timeMonth": 296,
-    "timeYear": 269,
+    "time": 272,
+    "timeDay": 1709,
+    "timeWeek": 595,
+    "timeMonth": 355,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-08-10": 0
+      "2024-08-10": 6
     }
   },
   {
