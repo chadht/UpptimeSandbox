@@ -244,9 +244,9 @@
     "url": "https://passwordapi.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/passwordapi.hcpss.org.ico",
     "slug": "password-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
@@ -256,6 +256,7 @@
     "timeMonth": 357,
     "timeYear": 277,
     "dailyMinutesDown": {
+      "2024-08-12": 0,
       "2024-08-10": 6
     }
   },
@@ -321,18 +322,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meshcentral.hcpss.org.ico",
     "slug": "mesh-central",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "79.26%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.93%",
     "time": 282,
     "timeDay": 141,
-    "timeWeek": 326,
-    "timeMonth": 325,
+    "timeWeek": 305,
+    "timeMonth": 324,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2024-08-12": 0,
+      "2024-08-12": 299,
       "2024-08-05": 54,
       "2024-08-04": 10
     }
@@ -533,7 +534,7 @@
     "time": 38,
     "timeDay": 6,
     "timeWeek": 25,
-    "timeMonth": 29,
+    "timeMonth": 30,
     "timeYear": 36,
     "dailyMinutesDown": {}
   }
