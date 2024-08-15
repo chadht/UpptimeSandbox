@@ -330,7 +330,7 @@
     "time": 282,
     "timeDay": 0,
     "timeWeek": 302,
-    "timeMonth": 336,
+    "timeMonth": 333,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2024-08-12": 386,
@@ -471,36 +471,40 @@
     "url": "https://srapi.hcpss.org/api/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/srapi.hcpss.org.ico",
     "slug": "service-requet-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 0,
-    "timeWeek": 222,
-    "timeMonth": 235,
-    "timeYear": 235,
-    "dailyMinutesDown": {}
+    "time": 226,
+    "timeDay": 52,
+    "timeWeek": 198,
+    "timeMonth": 226,
+    "timeYear": 226,
+    "dailyMinutesDown": {
+      "2024-08-15": 1
+    }
   },
   {
     "name": "Service Request (Web)",
     "url": "https://sr.hcpss.org/app/css/styles.css",
     "icon": "https://icons.duckduckgo.com/ip3/sr.hcpss.org.ico",
     "slug": "service-request-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 0,
-    "timeWeek": 292,
-    "timeMonth": 322,
-    "timeYear": 322,
-    "dailyMinutesDown": {}
+    "time": 313,
+    "timeDay": 133,
+    "timeWeek": 269,
+    "timeMonth": 313,
+    "timeYear": 313,
+    "dailyMinutesDown": {
+      "2024-08-15": 1
+    }
   },
   {
     "name": "CO MTA",
