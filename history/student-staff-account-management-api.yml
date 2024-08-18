@@ -1,7 +1,7 @@
 url: https://sam.hcpss.org/api/docs/
-status: down
-code: 503
-responseTime: 77
-lastUpdated: 2024-08-18T03:38:06.178Z
+status: up
+code: 200
+responseTime: 81
+lastUpdated: 2024-08-18T03:45:00.405Z
 startTime: 2022-02-25T17:37:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
