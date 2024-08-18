@@ -152,19 +152,19 @@
     "url": "https://sam.hcpss.org/api/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/sam.hcpss.org.ico",
     "slug": "student-staff-account-management-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 50,
-    "timeDay": 79,
-    "timeWeek": 55,
-    "timeMonth": 39,
+    "timeDay": 80,
+    "timeWeek": 58,
+    "timeMonth": 40,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2024-08-18": 0
+      "2024-08-18": 7
     }
   },
   {
