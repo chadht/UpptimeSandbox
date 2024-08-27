@@ -4,19 +4,19 @@
     "url": "https://hcpss.me/",
     "icon": "https://icons.duckduckgo.com/ip3/hcpss.me.ico",
     "slug": "hcpss-me",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 330,
-    "timeWeek": 462,
-    "timeMonth": 326,
-    "timeYear": 254,
+    "time": 247,
+    "timeDay": 410,
+    "timeWeek": 466,
+    "timeMonth": 329,
+    "timeYear": 255,
     "dailyMinutesDown": {
-      "2024-08-27": 2
+      "2024-08-27": 6
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://aplusstudent.hcpss.me/images/hclibrary.png",
     "icon": "https://icons.duckduckgo.com/ip3/aplusstudent.hcpss.me.ico",
     "slug": "hc-library-cards",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 465,
-    "timeWeek": 648,
-    "timeMonth": 547,
-    "timeYear": 337,
+    "time": 336,
+    "timeDay": 601,
+    "timeWeek": 659,
+    "timeMonth": 551,
+    "timeYear": 339,
     "dailyMinutesDown": {
-      "2024-08-27": 2
+      "2024-08-27": 6
     }
   },
   {
