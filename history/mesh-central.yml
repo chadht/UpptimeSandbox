@@ -1,7 +1,7 @@
 url: https://meshcentral.hcpss.org/
-status: up
-code: 200
-responseTime: 246
-lastUpdated: 2024-09-15T23:19:29.613Z
+status: down
+code: 503
+responseTime: 65
+lastUpdated: 2024-09-16T01:00:00.756Z
 startTime: 2022-02-25T17:38:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
