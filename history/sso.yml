@@ -1,7 +1,7 @@
 url: https://hcpss.me/saml/saml2/idp/metadata.php
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-18T17:52:48.311Z
+status: up
+code: 200
+responseTime: 74
+lastUpdated: 2024-10-18T17:58:51.365Z
 startTime: 2022-02-25T17:37:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
