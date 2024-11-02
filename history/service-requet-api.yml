@@ -1,7 +1,7 @@
 url: https://srapi.hcpss.org/api/auth/login
-status: down
-code: 503
-responseTime: 288
-lastUpdated: 2024-11-02T13:08:29.989Z
+status: up
+code: 200
+responseTime: 335
+lastUpdated: 2024-11-02T13:27:27.985Z
 startTime: 2024-08-02T17:11:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
